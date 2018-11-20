@@ -1,3 +1,3 @@
 Sourdough Sid is a React app created by Jasmine Chao.
 
-<img src="/images/readme.png" alt="Sourdough Sid" width="50%">
+<img src="/public/images/readme.png" alt="Sourdough Sid" width="50%">
